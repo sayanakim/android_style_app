@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">MyStyleApp</string>
+    <string name="text_element">Text element</string>
+    <string name="button_1">Button_1</string>
+    <string name="button_2">Button_2</string>
+</resources>
